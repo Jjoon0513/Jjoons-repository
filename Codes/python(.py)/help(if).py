@@ -32,7 +32,7 @@ if x == 5:
 if x == 7:
   print("HelloWorld!")
 else:
-  print("HelloPython!)
+  print("HelloPython!")
  
   #x가 5와 같다면 HelloWorld!를 출력합니다
   #아니라면 HelloPython!을 출력합니다
@@ -42,7 +42,7 @@ if x == 10
 elif x == 4
   print("HelloPython!")
 else:
-  print("HelloJjoon!)
+  print("HelloJjoon!")
 
   #x가 10과 같다면 HelloWorld!를 출력합니다
   #아니고 x가 4과 같다면 HelloPython!를 출력합니다
