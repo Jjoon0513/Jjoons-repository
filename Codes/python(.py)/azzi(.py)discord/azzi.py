@@ -12,13 +12,7 @@ updatetime = now.strftime('%Y-%m-%d %H:%M:%S')
 async def on_ready():
     await bot.change_presence(status=discord.Status.online, activity=discord.Game("사람인척"))
     print("아찌 온라인")
-
-@bot.event
-async def on_member_join(member):
-    await member.send(
-        f'어서오시오, {member.mention}여 이곳에 온걸 환영하오.'
-    )
-
+    
 @bot.slash_command(description="쭌의 현재 행동을 알려줍니다 (아마?)")
 async def 쭌은지금(ctx):
     print('쭌은지금 실행됨')
