@@ -1,6 +1,5 @@
-import discord
+import discord, random, math
 from datetime import datetime
-import random, math
 
 now = datetime.now()
 a = 0
