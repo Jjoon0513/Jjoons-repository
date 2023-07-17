@@ -6,7 +6,7 @@
 
 상업적으로 이용 가능 한 목록:
 
-- None
+- https://drive.google.com/file/d/1E0VknhT1rKR10KrITmHcHAw_02fL_MAg/view?usp=drivesdk
 
 
 
